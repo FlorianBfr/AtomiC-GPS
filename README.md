@@ -1,5 +1,5 @@
 # AtomiC-GPS
-an advanced ATOM GPX<br />
+an advanced ATOM GPS<br />
 <br />
 What can it do ?<br />
 <br />
