@@ -325,7 +325,7 @@ static void createDataFile() {
     if (gpxFile) {
       gpxFile.print(F(
         "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n"
-        "<gpx version=\"1.1\" creator=\"mon.arrosage.auto.free.fr\" xmlns=\"http://www.topografix.com/GPX/1/1\" \r\n"
+        "<gpx version=\"1.1\" creator=\"aventurier.nohost.me\" xmlns=\"http://www.topografix.com/GPX/1/1\" \r\n"
         "xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"\r\n"
         "xsi:schemaLocation=\"http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd\">\r\n"
         "\t<trk>\r\n<trkseg>\r\n")); 
